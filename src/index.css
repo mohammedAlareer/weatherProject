@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Amiri;
+  src: url(../public/fonts/Amiri-Regular.ttf);
+}
+
+@theme{
+  --font-amiri:Amiri , 'sans-serif';
+}
